@@ -4,6 +4,7 @@
 
 To perform and verify speech recognition using SCILAB. 
 
+
 ### APPARATUS REQUIRED: 
 PC installed with SCILAB and Python IDE. 
 
